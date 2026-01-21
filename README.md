@@ -43,3 +43,27 @@ The game demonstrates skills in **level design, AI programming, and Unreal Engin
 ---
 
 ## 📂 Project Structure
+
+> Folders like `Binaries`, `Intermediate`, and `Saved` are ignored in GitHub using `.gitignore` to keep the repository clean.
+
+---
+
+## 🛠️ Development Tools
+- **Game Engine:** Unreal Engine 5  
+- **Programming:** C++ and Blueprints  
+- **Version Control:** Git with **Git LFS** for large assets  
+- **Assets:** Starter content from Unreal Engine, custom models, and textures  
+
+---
+
+## 📸 Screenshots
+
+> Replace `path_to_screenshot.png` with the actual screenshot path in your repo.
+
+```markdown
+![Village Scene](Content/Screenshots/village_scene.png)
+![Collecting Coins](Content/Screenshots/collecting_coins.png)
+![Enemy AI](Content/Screenshots/enemy_ai.png)
+
+git clone https://github.com/MuhammadHaris249518/Village_Saga_3rd_Semester_Unreal5_project.git
+
