@@ -57,13 +57,13 @@ The game demonstrates skills in **level design, AI programming, and Unreal Engin
 ---
 
 ## 📸 Screenshots
+<img width="893" height="482" alt="scr1" src="https://github.com/user-attachments/assets/3aac1a2b-fc48-4fb9-bde8-bb9bd9ca22d9" />
 
-> Replace `path_to_screenshot.png` with the actual screenshot path in your repo.
+<img width="890" height="483" alt="scr2" src="https://github.com/user-attachments/assets/510a1fee-4d12-43cc-8a94-3ee814c02fd0" />
+<img width="893" height="497" alt="scr4" src="https://github.com/user-attachments/assets/5935d3b8-c15a-4cc3-8d63-987ad056bb47" />
+<img width="875" height="475" alt="scr3" src="https://github.com/user-attachments/assets/2a54af2e-84c4-42d3-998d-21600d30e86f" />
 
 ```markdown
-![Village Scene](Content/Screenshots/village_scene.png)
-![Collecting Coins](Content/Screenshots/collecting_coins.png)
-![Enemy AI](Content/Screenshots/enemy_ai.png)
 
 git clone https://github.com/MuhammadHaris249518/Village_Saga_3rd_Semester_Unreal5_project.git
 
